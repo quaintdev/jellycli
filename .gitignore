@@ -1,0 +1,5 @@
+*.log
+others/
+config.json
+tasks.list
+.idea
