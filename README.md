@@ -9,7 +9,7 @@ directly in the vlc media player
 
 Usage
 -----
-A config.json is expected in the directory of binary with below structure
+A config.json is expected in `~/.config/jellycli.conf` of binary with below structure
 
     {
         "AuthKey":"<authkey>",  // can be obtained from API keys section in dashboard
