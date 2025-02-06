@@ -16,3 +16,13 @@ A config.json is expected in the directory of binary with below structure
         "Host":"<server-url>",  // without the trailing slash
         "UserId":"<userid>" // can be obtained from browser API requests
     }
+
+Screenshots
+-----
+
+![image](https://github.com/user-attachments/assets/76ee7394-3136-4562-a120-fb24efb92f10)
+
+![image](https://github.com/user-attachments/assets/1df818b9-87ac-4a7e-8152-acef7430ab1e)
+
+
+
